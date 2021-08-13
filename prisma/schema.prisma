@@ -9,11 +9,10 @@ generator client {
 
 model Raca {
   id   Int    @id @default(autoincrement())
-  nome String
+  nome String @unique
 }
 
 model Sexo {
   id   Int    @id @default(autoincrement())
-  nome String
+  nome String @unique
 }
-
