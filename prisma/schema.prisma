@@ -7,12 +7,12 @@ generator client {
   provider = "prisma-client-js"
 }
 
-model Raca {
+model raca {
   id   Int    @id @default(autoincrement())
   nome String @unique
 }
 
-model Sexo {
+model sexo {
   id   Int    @id @default(autoincrement())
   nome String @unique
 }
