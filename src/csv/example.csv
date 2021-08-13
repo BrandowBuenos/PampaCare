@@ -1,0 +1,10 @@
+Amostra,Data,Nome,Proprietario,Área,Endereço,Complemento,Bairro,Lat,Long,Raça,Sexo,Vacina,Idade,Estado geral,Desidratacao,Mucosas,Perda de apetite,Emagrecimento,Caquexia,Apatia,Lesões cutâneas,Disturbios urinarios,Alopecia local,Alopecia generalizada,Epistaxe,Descamacao furfuracea,Pelo opaco,Ulceras crostrosas,Onicogrifose,Paresia,Dor palpacao,Alteracoes oftalmologicas,Edema membros,Esplenomegalia,Adenite,Hepatomegalia,ARTRALGIA,Data res. TR,TR,ELISA,Data resultado elisa,lvc,Eutanásia,Morreu,Tratamento,,Data eutanásia,obs,usa coleira,Outros animais
+71,15/01/2019,Mel,Graciele Almeida,Urbana,Fernando Ferrari 1271,,Ipiranga,"-29,77505833","-57,07005278",SRD,2,,2,1,0,2,0,0,,,1,,1,0,0,1,,0,1,,,0,,,,,,,1,1,43572,1,,,,,,,,
+72,25/01/2019,Da rua,Jorge Soares,Urbana,Antonio Monteiro 1870,,Nova Esperança,"-29,77106389","-57,09509444",SRD,1,,3,1,0,2,1,1,,,1,,0,0,0,1,,0,0,,,0,,,,,,43490,1,1,43572,1,,,,,,,,
+73,25/01/2019,Geromel,Jader Carvalho,Urbana,Rua 8 Quadra 20 1232,,Ipiranga,"-29,77146667","-57,07117778",SRD,1,,2,1,0,2,0,1,,,1,,1,0,0,1,,0,0,,,0,,,,,,43550,1,1,43572,1,,,,,,,,
+74,31/01/2019,Poter,Clarimundo Moraes,Urbana,Monte Caseros 3929,,Santo Antonio,"-29,75240278","-57,07411111",SRD,1,,2,1,0,2,0,1,,,1,,1,0,0,1,,1,0,,,0,,,,,,,1,1,43572,1,,,,,,,,
+1,08/02/2019,Neguinha,Efigênia Prates,Urbana,Salgado Filho 1920,,Cabo Luis Quevedo,"-29,77676944","-57,09430556",SRD,2,,2,2,1,2,1,1,,,1,,1,0,,1,,0,1,,,0,,,,,,,1,1,43572,1,,,,,,,,
+2,08/02/2019,Laika,Efigênia Prates,Urbana,Salgado Filho 1920,,Cabo Luis Quevedo,"-29,77676944","-57,09430556",SRD,2,,3,1,0,2,0,0,,,1,,0,0,0,0,,0,1,,,0,,,,,,,1,1,43572,1,,,,,,,,
+5,23/02/2019,Guri,Cristiane Pereira,Urbana,Artur Schenkel 1503,,Rui Ramos,"-29,77030556","-57,07211667",SRD,1,,2,2,1,1,1,1,,,1,,0,0,0,0,,0,0,,,0,,,,,,,1,,,1,,,,,,Lesões em orelha,,
+8,01/03/2019,Nene,Ali da Silva,Urbana,Flores da Cunha 2795,,São Miguel,"-29,76481667","-57,07963889",Labrador,1,,2,2,0,2,1,,,,1,,1,,0,1,,0,0,,,0,,,,,,43528,1,,,1,,,,,,,,
+11,02/04/2019,Floquita,Vera Silva,Urbana,Guabiju 265,,Profilurb,"-29,78105556","-57,07759722",SRD,2,,2,1,0,2,0,0,,,1,,0,0,0,1,,0,1,,,0,,,,,,,1,,,1,,,,,,,,
