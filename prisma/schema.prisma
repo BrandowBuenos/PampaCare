@@ -16,3 +16,13 @@ model sexo {
   id   Int    @id @default(autoincrement())
   nome String @unique
 }
+
+model bairro {
+  id   Int    @id @default(autoincrement())
+  nome String @unique
+}
+
+model area {
+  id   Int    @id @default(autoincrement())
+  nome String @unique
+}
