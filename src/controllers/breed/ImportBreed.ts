@@ -1,6 +1,7 @@
 import { Request, Response } from 'express'
 import csv from 'csv-parser'
 import fs from 'fs'
+import prisma from '../../services/prisma'
 
 const result: any = []
 class ImportBreed {
@@ -8,14 +9,24 @@ class ImportBreed {
     try {
       fs.createReadStream('/Volumes/SSD/dev/PampaCare/src/csv/example.csv')
         .pipe(csv())
-        .on('data', (data) => result.push(data))
-        .on('end', () => {
-          console.log(result)
+        .on('data', (row) => result.push(row))
+        // .on('end', () => {
+        //   console.log(result)
+        // })
+
+      const jsonArray = JSON.parse(JSON.stringify(result))
+      const resultado = jsonArray.map((item: { Raça: String }) => item.Raça)
+
+      const insertBreed = resultado.forEach(async (element: string) => {
+        await prisma.raca.createMany({
+          skipDuplicates: true,
+          data: {
+            nome: element
+          }
         })
+      })
 
-      var jsonArray = JSON.parse(JSON.stringify(result))
-
-      return response.status(200).json(jsonArray.map((item: { Raça: String }) => item.Raça))
+      return response.status(200).json(insertBreed)
     } catch (error) {
       return response.status(400).json({
         message: error.message
