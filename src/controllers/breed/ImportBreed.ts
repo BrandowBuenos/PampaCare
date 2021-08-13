@@ -27,7 +27,7 @@ class ImportBreed {
           })
         })
 
-      return response.status(201).json({ message: 'Carga de dados efetuada com sucesso !' })
+      return response.status(201).json({ message: 'Importação de raças efetuada com sucesso !' })
     } catch (error) {
       return response.status(400).json({
         message: error.message
