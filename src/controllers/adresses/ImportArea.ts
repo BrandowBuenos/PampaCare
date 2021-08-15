@@ -3,7 +3,7 @@ import csv from 'csv-parser'
 import fs from 'fs'
 import prisma from '../../services/prisma'
 
-class ImportDistricts {
+class ImportArea {
   async execute (request: Request, response: Response): Promise<Response> {
     try {
       const result: any = []
@@ -15,19 +15,19 @@ class ImportDistricts {
         })
         .on('end', async () => {
           const jsonArray = JSON.parse(JSON.stringify(result))
-          const resultado = jsonArray.map((item: { Bairro: String }) => item.Bairro)
+          const resultado = jsonArray.map((item: { Área: String }) => item.Área)
 
-          resultado.forEach(async (districtName: string) => {
-            await prisma.bairro.createMany({
+          resultado.forEach(async (areaName: string) => {
+            await prisma.area.createMany({
               skipDuplicates: true,
               data: {
-                nome: districtName
+                nome: areaName
               }
             })
           })
         })
 
-      return response.status(201).json({ message: 'Importação de bairros efetuada com sucesso !' })
+      return response.status(201).json({ message: 'Importação de áreas efetuada com sucesso !' })
     } catch (error) {
       return response.status(400).json({
         message: error.message
@@ -36,4 +36,4 @@ class ImportDistricts {
   }
 }
 
-export { ImportDistricts }
+export { ImportArea }
