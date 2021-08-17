@@ -1,0 +1,56 @@
+n,amostra,nome,proprietario,Data,Endereço,Bairro,Cód. Bairro,Lat,Long,raça,sexo,vacina,idade,estado geral,desidratação,mucosas,perda de apetite,emagrecimento,caquexia,apatia,distúrbios urinários,alopecia local,alopecia generalizada,epistaxe,descamação cutânea,pêlo opaco,úlcera crostosa,onicogrifose,paresia posteriores,dor  palpação renal,alterações oftalmicas,edema de membros,adenite,hepatomegalia,artralgia,TR,ELISA,RIFI,LVC
+8,1,milonga,ronaldo carpes da costa,1/22/2010,"general câmara, nº1227",Centro,1,-29.7502555555556,-57.0832722222222,labrador,2,,2,2,0,2,ñ,1,0,0,0,,1,0,1,1,0,1,0,0,1,0,0,,0,0,1,1,1
+9,5,mel,cleusa osório,1/26/2010,"presidente  vargas, nº1516",Bela vista,5,-29.7584555555556,-57.0974166666667,labrador,2,,2,1,0,2,,,,,,,,,,,,,,,,,,,,0,1,1,1
+10,8,spike,fernanda velasques,1/26/2010,"prado lima, nº1786",Nova Esperança,9,-29.7652694444444,-57.083075,srd,1,,,3,0,,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+11,19,milu,vera fernandes,1/26/2010,"quadra 4, nº58",COHAB II,25,-29.7698666666667,-57.0603638888889,srd,2,,2,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+12,22,florinda,miriam rodrigues vargas,2/19/2010,"otacílio guimarães,nº 2940",Mascarenhas de Moraes,3,-29.7474,-57.0810222222222,srd,2,,,1,0,2,,,,,,,,,,,,,,,,,,,,0,1,1,1
+13,23,nita,santa malvina pereira rodrigues,3/10/2010,"general propício, nº2996",Mascarenhas de Moraes,3,-29.7469055555556,-57.0835777777778,srd,2,,,1,0,2,,,,,,,,,,,,,,,,,,,,0,1,1,1
+14,24,neguinha,dulcemar portes da silva,3/22/2010,"marechal floriano, nº3480",Nova Esperança,9,-29.7707722222222,-57.0974,srd,2,,,3,,2,0,1,0,0,0,0,1,0,,1,1,1,0,0,0,0,0,,0,0,1,1,1
+15,25,bethoven,dulcemar portes da silva,4/22/2010,"marechal floriano, nº3480",Nova Esperança,9,-29.7707722222222,-57.0974,srd,1,,,2,0,2,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+16,26,pulguinha,dulcemar portes da silva,5/21/2010,"general propício, nº2929",Mascarenhas de Moraes,3,-29.7707722222222,-57.0974,srd,2,,,2,0,2,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1
+17,31,rex,edilberto souza carpes,5/21/2010,"marechal floriano, nº3480",Nova Esperança,9,-29.7469027777778,-57.0833638888889,boxer,1,,,3,0,,,,1,1,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,1,1
+18,36,belinha,gina cooper,5/25/2010,"marechal deodoro, nº 2807",Nova Esperança,9,-29.7646694444444,-57.0959222222222,srd,2,,2,3,0,,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,,0,0,0,1,1,1
+19,38,pop,dulce inês migliorance,5/27/2010,"santana, nº 3441",Centro,1,-29.7688972222222,-57.0620361111111,srd,2,,2,3,,,1,1,,1,0,1,0,,,1,,1,,,1,0,,0,0,0,1,1,1
+20,43,mel,andré luis leal peres,5/27/2010,"presidente  vargas, nº1663",Bela vista,5,-29.7584555555556,-57.0972194444444,labrador,2,,2,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+21,46,preta,claudio fagundes,5/27/2010,"quadra 4, n°56",COHAB II,25,-29.7568694444444,-57.0787694444445,srd,2,,,3,,,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+22,48,brazina,ciro polano,5/27/2010,"josé gomes de souza, nº1575",Cidade alegria,26,-29.7700388888889,-57.0592666666667,srd,2,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1
+23,49,urso,camila gomes damaceno,5/31/2010,"julio de castilhos, nº1407",Bela vista,5,-29.7612666666667,-57.0999,srd,1,,2,3,3,1,1,1,1,1,0,,,0,,1,,1,0,0,0,0,1,0,0,0,1,1,1
+24,51,lobo,ana dina garcia,6/1/2010,"general bento martins, nº3721",Centro,1,-29.7678027777778,-57.0513055555556,srd,1,,,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+25,54,pantera,marcos pereira lopes,6/1/2010,"eustáquio ormazabal, nº2480",Centro,1,-29.7553861111111,-57.0759666666667,srd,2,,3,2,,,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+26,55,lua,altair gonçalves,6/1/2010,"santana, nº 1415",Bela vista,5,-29.7570361111111,-57.0986333333333,9,2,,,3,,,,1,0,1,0,1,0,0,1,1,1,1,0,,1,0,1,0,0,0,1,1,1
+27,56,gai,sonia teresinha mendes da silva,6/1/2010,"antero lisboa, nº 458",Santo Inácio,19,-29.7617305555556,-57.0943777777778,srd,1,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1
+28,57,bethoven,claudia luciana da silva,6/7/2010,"marechal floriano, nº2220",Bela vista,5,-29.7594638888889,-57.0977583333333,srd,1,,3,3,,,0,1,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1
+29,59,stiven,vagner ricardo ferrioli dalcanal,6/8/2010,"eustaqui ormazabal, nº 2952",Nova Esperança,9,-29.7659861111111,-57.0943138888889,srd,1,,2,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1
+30,60,pequena,vagner ricardo ferrioli dalcanal,6/8/2010,"eustaqui ormazabal, nº 2952",Nova Esperança,9,-29.7659861111111,-57.0943138888889,srd,2,,2,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1
+31,89,bill,tania herreira,6/10/2010,"julio de castilhos, nº 3315",Centro,1,-29.7610194444444,-57.0803666666667,labrador,1,,2,2,,,1,1,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+32,1085,amarelo,joão batista silveira jaques,6/10/2010,"benjamin constant, n°2598",São João,8,-29.7863055555556,-57.1059416666667,srd,1,,2,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+33,2039,pintacilgo,bianca,6/10/2010,"quadra 06, n 21",Prolar/ Anita Garibald,12,-29.7626805555556,-57.0766666666667,srd,1,,2,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+34,2077,bugre,ricardo matte,6/22/2010,"general vitorino, nº2970",Nova Esperança,9,-29.766175,-57.0911444444444,labrador,1,,2,1,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+35,2078,popó,ricardo matte,6/30/2010,"general vitorino, nº2970",Nova Esperança,9,-29.766175,-57.0911444444444,boxer,1,,3,3,0,,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+36,2202,juquinha,gilberto maciel,7/1/2010,"general propício, nº 2900",Mascarenhas de Moraes,3,-29.7469527777778,-57.0849444444445,srd,1,anti- rábica,3,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+37,2208,paraguaia,débora maciel,7/6/2010,"general propício, nº 2912",Mascarenhas de Moraes,3,-29.7469472222222,-57.0849027777778,srd,2,0,3,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+38,2214,laila,yuri valls,8/2/2010,"borges de medeiros, nº 3017",Mascarenhas de Moraes,3,-29.7455111111111,-57.0818194444444,srd,2,V8,2,1,0,2,,,,,,,,,,,,,,,,,,,,0,1,1,1
+39,2242,fiona,claudiomiro borges,8/10/2010,"general propício, nº 2619",Mascarenhas de Moraes,3,-29.7469027777778,-57.0834611111111,srd,2,,2,3,3,,1,1,1,1,,1,0,,1,1,,,,,,,,,,0,1,1,1
+40,2243,burrinho,claudiomiro borges,8/24/2010,"general propício, nº2619",Mascarenhas de Moraes,3,-29.7469027777778,-57.0834611111111,srd,1,,2,1,0,2,,,,,,,,,,,,,,,,,,,,0,1,1,1
+41,2244,ratinho,claudiomiro borges,8/28/2010,"general propício, nº 2619",Mascarenhas de Moraes,3,-29.7469027777778,-57.0834611111111,srd,1,,3,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+42,2263,menina,karina cordero,8/31/2010,"general câmara, nº775",Mascarenhas de Moraes,3,-29.7460861111111,-57.0833333333333,srd,2,,2,1,0,2,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1
+43,2274,negão,rafael pereira xavier,9/14/2010,"antero lisboa, nº242",Santo Inácio,19,-29.7676666666667,-57.0530805555556,srd,1,,1,2,0,2,,,,,,,,,,,,,,,,,,,,0,1,1,1
+44,2276,diana,luciana fernandes,9/16/2010,"marcos azambuja, nº517",Santo Inácio,19,-29.7669138888889,-57.0544277777778,srd,2,,2,1,0,2,,,,,,,,,,,,,,,,,,,,0,1,1,1
+45,2281,lobo,ana dina garcia,9/17/2010,"antero lisboa, nº458",Santo Inácio,19,-29.7678027777778,-57.0513055555556,srd,1,,2,1,0,2,,,,,,,,,,,,,,,,,,,,0,1,1,1
+46,2296,luna,manoel dos santos ferreto,9/17/2010,"quadra 02, nº18",COHAB II,25,-29.7686972222222,-57.0603583333333,boxer,2,,2,1,0,2,,,,,,,,,,,,,,,,,,,,0,1,1,1
+47,2342,leona,zuca,9/27/2010,"15 de novembro, nº3264",São Miguel,2,-29.7675416666667,-57.0543361111111,srd,2,contra leishmaniose,2,1,0,2,,,,,,,,,,,,,,,,,,,,0,1,1,1
+48,2384,chiquinha,neiva,9/27/2010,"marcos azambuja, nº07",Santo Inácio,19,-29.7675416666667,-57.0543361111111,srd,2,,3,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+49,2489,hulk,carla argemi,9/27/2010,"marcos azambuja,nº07",Santo Inácio,19,-29.76875,-57.0878611111111,labrador,1,,3,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1
+50,2500,boca negra,enrique camara pereira,9/30/2010,"josé gomes de souza, nº1585",Cidade alegria,26,-29.7688055555556,-57.0617722222222,srd,1,,,2,,,,,,,,,,,,,,,,,,,,,,0,1,1,1
+51,****,jade,hilda catarina mendes teixeira,10/6/2010,*** não consta,Mascarenhas de Moraes,3,-29.7473777777778,-57.084325,srd,2,,2,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+52,****,pretinho,gilberto maciel,10/13/2010,"general propicio, nº2900",Mascarenhas de Moraes,3,-29.7469527777778,-57.0849444444445,srd,1,,3,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+53,****,xerife,zenaide benites,10/15/2010,"otacílio guimarães,nº 2981",Mascarenhas de Moraes,3,-29.747325,-57.0837722222222,srd,1,,3,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+54,****,mugra,mirtes silva,10/27/2010,"general propicio, nº 2924",Mascarenhas de Moraes,3,-29.7469361111111,-57.0847194444445,srd,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+55,****,bob,eliana araujo machado,11/8/2010,"marcos azambuja, n°566",Santo Inácio,19,-29.766925,-57.0544194444444,srd,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+56,****,gaúcho,amadeo nunes silveira,11/8/2010,"marcos azambuja, nº567",Santo Inácio,19,-29.7671888888889,-57.0543861111111,srd,1,,2,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+57,****,bandi,tilau valdez,11/10/2010,"quadra 2, casa 21",COHAB II,25,-29.7687416666667,-57.0606944444444,srd,1,,2,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+58,****,s/nome,rosane ribeiro,11/16/2010,"quadra 1, casa 02",COHAB II,25,-29.76865,-57.0589888888889,srd,2,,2,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+59,****,sepé,sônia vargas,11/23/2010,"marechal floriano, nº1902",Bela vista,5,-29.756675,-57.0978138888889,srd,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+60,****,lilica,maria de loudes menezes,11/23/2010,"benjamin constant, nº 2619",São João,8,-29.7628083333333,-57.0766666666667,srd,2,,1,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+61,****,linda,nilton da luz,11/23/2010,"benjamin constant, nº2665",São João,8,-29.7632472222222,-57.0766611111111,srd,2,,3,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+62,****,nina,joão carlos dória,12/6/2010,"benjamin constant, nº 2484",São João,8,-29.7615972222222,-57.0768138888889,boxer,2,,2,,,,,,,,,,,,,,,,,,,,,,,,1,1,1

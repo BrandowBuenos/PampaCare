@@ -1,0 +1,111 @@
+n,amostra,data,nome,proprietario,Endereço,Bairro,Cód. Bairro,Lat,Long,raça,sexo,vacina,idade,estado,desidratação,mucosas,perda de apetite,emagrecimento,caquexia,apatia,disturbios urinarios,alopecia local,alopecia generalizada,epixtase,descamação furfuracea,pelo opaco,ulceras,onicogrifose,paresia,dor a palpação renal,alterações renais,edema,adenite,hepatomegalia,artralgia,TR,Elisa,rifi,lvc
+63,****,1/3/2011,bruke,marcelo dos santos,"duque de caxias,nº2656",São Miguel,2,-29.763275,-57.0864472222222,pitbull,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+64,****,1/14/2011,princesa,luciana ribeiro dias,"iris valls, nº2020",Centro,1,-29.7576805555556,-57.0927916666667,srd,2,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+65,95,1/17/2011,fadu,gilmar borges da silva,otacilio guimarães 2615,Mascarenhas de Moraes,3,-29.7473888888889,-57.0840138888889,srd,1,0,2,ruim,0,,1,1,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,,,1,1
+66,99,1/17/2011,sanade,maicon garcia,celi lisboa q 01 n 6,União das Vilas,21,-29.7855111111111,-57.0666638888889,labrador,1,0,,bom,0,normocoradas,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+67,100,1/29/2011,preto,roberto marques filho,marechal floriano 1903,Bela vista,5,-29.7565194444444,-57.0976777777778,labrador,1,0,,ruim,0,HIPOCORADAS,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+68,101,1/31/2011,scot,roberto marques filho,marechal floriano 1903,Bela vista,5,-29.7565194444444,-57.0976777777778,labrador,1,0,2,regular,0,normocoradas,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+69,113,1/31/2011,iudi,fernanda pedroso,marechal floriano 2658,Tarragó,7,-29.7666388888889,-57.0974833333333,srd,1,0,2,ruim,severo,,0,1,1,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1
+70,114,1/31/2011,negrão,dirce gomes,marechal floriano 2658-1,Tarragó,7,-29.7666388888889,-57.0974833333333,srd,1,0,1,bom,0,,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1
+71,115,2/9/2011,amarelo,roberto pinto valença,travessa eunice waer 3082,São Miguel,2,-29.7614611111111,-57.0982111111111,srd,1,0,2,bom,0,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1
+72,122,2/9/2011,alemão,luis carlos martins,julio castilhos 1534,Tarragó,7,-29.7674777777778,-57.0919222222222,srd,1,0,2,regular,leve,normocoradas,0,1,0,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,1
+73,124,2/14/2011,lobo,luis carlos martins,travessa eunice waer 3082,São Miguel,2,-29.7674777777778,-57.0919222222222,pastor alemão,1,0,2,bom,0,normocoradas,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1
+74,128,2/17/2011,bidu,cleide lopes dos santos,general propicio 2616,Mascarenhas de Moraes,3,-29.7639777777778,-57.0949305555556,srd,1,0,,ruim,severa,,1,1,1,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1
+75,131,2/17/2011,pispirica,catia cristina ponci,general hipolito 1870,Nova Esperança,9,-29.746975,-57.0849777777778,srd,2,0,3,ruim,severa,normocoradas,0,1,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1
+76,132,2/21/2011,preta,catia cristina ponci,general propicio 2616,Mascarenhas de Moraes,3,-29.746975,-57.0849777777778,srd,2,0,,regular,leve,normocoradas,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1
+77,133,2/22/2011,dara,maria loreta benites,gregório beregarai 1746,Nova Esperança,9,-29.7668027777778,-57.0964888888889,pit bull,2,0,,regular,leve,,0,1,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1
+78,134,3/3/2011,gringa,simone santos ribeiro,marechal floriano 3290,Nova Esperança,9,-29.769125,-57.09745,srd,2,0,2,ruim,severa,,1,1,1,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1
+79,148,3/7/2011,amarelo,edi charão masciel,gal. propício 2900,Mascarenhas de Moraes,3,-29.7469527777778,-57.0849444444445,srd,1,0,2,ruim,2,normocoradas,0,1,1,1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,,1,1,1
+80,150,3/14/2011,negão,antonio trindade neto,marechal deodoro 2618,Nova Esperança,9,-29.7630888888889,-57.096075,srd,1,0,2,ruim,0,normocoradas,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+81,151,3/29/2011,sem nome,luciane mendes,general propicio 3559,Mascarenhas de Moraes,3,-29.7583972222222,-57.0764166666667,srd,1,0,2,bom,0,normocoradas,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,1
+82,159,3/29/2011,junior,leopoldo,presidente vargas 1367,Bela vista,5,-29.7468472222222,-57.0789666666667,srd,1,0,3,ruim,0,normocoradas,1,1,0,1,0,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1,1,1
+83,161,4/4/2011,max,ubiratan fagundes,bento martins beco 1 n°125,Santana,6,-29.7483777777778,-57.0772944444444,srd,1,,2,bom,0,normocoradas,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+84,162,4/4/2011,lanke,iara maria santos da cruz,conde de porto alegre 3606,Santo Inácio,19,-29.7553388888889,-57.0744194444444,srd,1,0,2,regular,0,normocoradas,0,1,0,0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,1
+85,163,4/6/2011,pitty,ione terezinha da silva,rodrigues portugal ,Cabo Luiz Quevedo,10,-29.7707638888889,-57.0615055555556,srd,2,0,2,ruim,1,normocoradas,0,1,1,1,0,1,0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1
+86,164,4/6/2011,billy,fatima roseli bairros,rua durval arregui 1460,Cidade Alegria,26,-29.7725055555556,-57.103375,srd,1,0,2,bom,0,normocoradas,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+87,165,4/13/2011,peludache,paulo perine,flores da cunha 2525,Centro,1,-29.7621694444444,-57.0798611111111,srd,1,0,2,regular,0,normocoradas,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+88,166,4/25/2011,amarelo,paulo perini,flores da cunha 2525,Centro,1,-29.7621694444444,-57.0798611111111,srd,1,0,2,bom,0,normocoradas,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+89,167,5/17/2011,pulga,rosangela soares,iris valls 2652,Centro,1,-29.7633888888889,-57.0928166666667,srd,1,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+90,168,5/19/2011,pirata,pedro cargnelutti neto,prof. luis antonio lopes 2850,São João,8,-29.7647444444444,-57.0688111111111,pit bull,2,0,2,ruim,2,normocoradas,1,1,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1
+91,173,6/6/2011,pretinha,2° dp,santos dumont ,União das Vilas,21,-29.7837722222222,-57.0672027777778,srd,2,0,,regular,0,normocoradas,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1
+92,174,6/16/2011,jamal,ana cristina coelho,presidente vargas 2034,Centro,1,-29.7598361111111,-57.0957583333333,srd,1,0,2,bom,0,normocoradas,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+93,179,6/16/2011,luna,luciana ramos,dr. maia 1295,Bela vista,5,-29.770725,-57.0534833333333,boxer,2,0,3,ruim,2,normocoradas,0,1,0,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1
+94,181,6/16/2011,preta,nelsi pereira escobar,presidente vargas 1385,Bela vista,5,-29.7584194444444,-57.0832277777778,srd,2,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+95,182,6/16/2011,lesie,flavia ramires,quadra 5 casa 5 ,Distrito Rodoviário/ Betania,17,-29.7584027777778,-57.0766055555556,srd,2,0,3,bom,0,normocoradas,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+96,183,7/11/2011,xurupita,luciane mendes,predidente vargas 1367,Bela vista,5,-29.7583972222222,-57.0764305555556,srd,2,0,2,regular,0,normocoradas,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+97,184,7/13/2011,neguinha,ruthe momback,armando r dela cast,Jockey Club,18,-29.7625916666667,-57.0459472222222,srd,2,0,1,ruim,1,normocoradas,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1
+98,186,7/18/2011,cacique,adyr da silva,presidente vargas 1421,Bela vista,5,-29.7584,-57.0769944444444,pastor alemão,1,0,2,regular,0,normocoradas,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+99,188,7/21/2011,veludo,judite gonçalves faria correia,treze de maio 1596,Centro,1,-29.7537472222222,-57.0898333333333,srd,1,0,2,regular,0,normocoradas,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+100,191,7/21/2011,chiquinha,fernanda f. pedroso,marechal floriano 2658,Bela vista,5,-29.7632861111111,-57.0975527777778,srd,2,0,2,ruim,1,normocoradas,1,1,0,1,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1
+101,198,7/21/2011,toby,flavia ramires,presiente vargas 1385,Bela vista,5,-29.7584027777778,-57.0766055555556,srd,1,0,2,regular,0,normocoradas,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+102,199,7/21/2011,bidu,flavia ramires,presidente vargas 1385,Bela vista,5,-29.7584027777778,-57.0766055555556,srd,1,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+103,200,7/25/2011,tobi,flavia ramires,7 de setembro 700,Mascarenhas de Moraes,3,-29.7584027777778,-57.0766055555556,cocker,1,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+104,203,7/25/2011,preto,ana paula da rosa gonçalves,7 de setembro 701,Mascarenhas de Moraes,3,-29.7569472222222,-57.0987916666667,labrador,1,0,,ruim,0,normocoradas,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+105,204,7/25/2011,sheila,luiz carlon flores de freitas,presidente vargas 1385,Bela vista,5,-29.7492166666667,-57.0816666666667,boxer,2,0,2,regular,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+106,207,7/25/2011,peluda ,luiza fatima d elima,santana 1343,Bela vista,5,-29.7492194444444,-57.0816666666667,srd,2,0,2,regular,0,normocoradas,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+107,212,8/8/2011,tigre,lenir terezinha gomes da rosa,eustáquio ormazabal 2966,São Miguel,2,-29.7661444444444,-57.0943138888889,srd,1,0,,regular,0,normocoradas,1,1,0,1,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1
+108,213,8/11/2011,diana,lenir terezinha gomes da rosa,flores da cunha 2804,São Miguel,2,-29.7661444444444,-57.0943138888889,srd,2,0,,ruim,1,normocoradas,1,1,1,1,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1
+109,226,8/11/2011,bolinha,antonio trintade neto,eustáquio ormazabal 2966,São Miguel,2,-29.7645166666667,-57.080025,srd,1,0,3,regular,0,normocoradas,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,1,1
+110,236,8/11/2011,maia,karina gonçalves,general camara 775,Mascarenhas de Moraes,3,-29.7454833333333,-57.0791444444444,srd,2,0,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+111,243,8/12/2011,bido,hernani veiga,domingos de almeida 843,Mascarenhas de Moraes,3,-29.7489444444444,-57.0848916666667,srd,1,0,3,leve,0,normocoradas,0,1,0,1,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,1,1
+112,245,8/12/2011,biga,manuel martinez,domingos de almeida 823,Mascarenhas de Moraes,3,-29.7489444444444,-57.0848916666667,srd,2,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+113,250,8/15/2011,mickei,frederico jaques,iris valls 1297,Centro,1,-29.7822361111111,-57.0967666666667,srd,1,0,2,bom,0,normocoradas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+114,251,8/15/2011,pelucio,liliane maidana guterres,julio de castilhos 3518,São João,8,-29.7674916666667,-57.0911194444444,srd,2,0,3,bom,0,normocoradas,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+115,252,8/15/2011,pantera,angelica beatriz borsmann,gal vitorino 3112,Nova Esperança,9,-29.7610555555556,-57.0780222222222,pit bull,2,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+116,255,8/15/2011,spak,silvia nilela castro,quadra 12 nº 9,Prolar,12,-29.7864388888889,-57.1036166666667,srd,1,0,2,ruim,1,normocoradas,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1
+117,256,8/17/2011,branco,jaira machado eruvite,marechal floriano 3268,Nova Esperança,9,-29.7689416666667,-57.0976138888889,srd,1,0,2,regular,0,normocoradas,0,1,0,0,0,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,1
+118,257,8/18/2011,preto,maria luiza bica da silva,gal hipolito 1824,Nova Esperança,9,-29.7641722222222,-57.0956083333333,srd,1,0,2,bom,0,normocoradas,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+119,260,8/23/2011,monica,gilberto policarpo,julio de castilhos 1718,Bela vista,5,-29.7612666666667,-57.0967027777778,poodle,2,0,3,regular,0,normocoradas,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+120,262,8/24/2011,lobo,marcelo da rosa pedroso,tiradentes 3736 ,Centro,1,-29.7541222222222,-57.0758722222222,srd,1,0,,regular,0,normocoradas,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,1
+121,268,8/25/2011,pituco,isaura benites,borges de medeiros 3299,Mascarenhas de Moraes,3,-29.7669361111111,-57.0955666666667,srd,1,0,2,regular,0,hipocoradas,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+122,272,8/25/2011,lilica,ana rodrigues,gregório beregarai 1840,Nova Esperança,9,-29.7454888888889,-57.0805944444444,srd,2,0,,regular,0,normocoradas,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+123,277,8/26/2011,edu,terezinha romero sommer,borges de medeiros ,Mascarenhas de Moraes,3,-29.7454777777778,-57.080275,srd,1,0,2,bom,0,normocoradas,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1
+124,278,8/29/2011,brutus,luiz viltamar oliveira,travessa 15 sem número,Mascarenhas de Moraes,3,-29.7448472222222,-57.0793694444444,srd,1,0,,ruim,,,0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1
+125,281,8/31/2011,marrom,manoela broglio,julio de castilhos 1708,Bela vista,5,-29.7613888888889,-57.0968111111111,srd,2,0,2,regular,0,normocoradas,0,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1
+126,285,9/6/2011,preta,marcio souza pereira,prado lima 2757,São Miguel,2,-29.7651388888889,-57.0858611111111,srd,2,0,2,ruim,0,,0,1,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,1,1
+127,297,9/26/2011,comanche,alcides jose inda,13 de maio 3113,São Miguel,2,-29.7455083333333,-57.0817083333333,srd,1,0,,regular,0,normocoradas,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+128,318,9/26/2011,sol,vilma gomes,borges de medeiros 3140,Mascarenhas de Moraes,3,-29.7473944444444,-57.0826555555556,srd,2,0,2,regular,0,normocoradas,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,1,1,1
+129,331,9/26/2011,escot,elisabete goulart machado,otacilio guimarães 3113,Mascarenhas de Moraes,3,-29.7673527777778,-57.0767472222222,srd,1,0,2,bom,0,normocoradas,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1
+130,332,9/26/2011,formosa,nilda regina leal,benjamim constant 3116,São João,8,-29.7674305555556,-57.0894777777778,pit bull,2,0,3,bom,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+131,336,9/28/2011,cindy,luis carlos martins,travessa eunice weber 3082,Nova Esperança,9,-29.7672166666667,-57.0919416666667,daschund,2,0,2,regular,0,normocoradas,0,0,0,0,0,1,1,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,1
+132,337,9/29/2011,marlei,rosane da rosa brandão,josé gomes de souza 1322,Cidade Alegria,26,-29.7690666666667,-57.063675,srd,1,0,,regular,0,normocoradas,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,1,1
+133,340,10/7/2011,zuca,valdir saraiva,eustaquio ormazabal travessa josé francisco n 100,Nova Esperança,9,-29.769,-57.0942694444444,srd,2,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+134,342,10/7/2011,preto,cleci   ,rua antero lisboa 185,Santo Inácio,19,-29.7675638888889,-57.0538861111111,srd,1,0,2,regular,0,normocoradas,0,1,0,0,0,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,1
+135,347,10/10/2011,zorro,claudia correa rodrigues,feliciano ribeiro 2531,São João,8,-29.7620194444444,-57.0718805555556,srd,1,0,2,regular,0,normocoradas,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,1
+137,351,10/14/2011,duque,paulo ricardo severo,eustaquio ormazabal 2170,Bela vista,5,-29.7856916666667,-57.1111611111111,srd,1,0,2,regular,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1
+138,352,10/14/2011,slash,wilian bagesteiro,quadra 22 n 04,João Paulo II,12,-29.7589388888889,-57.0945805555556,boxer,1,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+139,353,10/14/2011,amarelo,altamir aires da rosa,eustaquio ormazabal 2966,Rio Branco,23,-29.7661444444444,-57.0943138888889,srd,1,0,2,regular,0,normocoradas,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+140,354,10/14/2011,bili,suzan carine da silva,perimetral 955,Cidade Nova,24,-29.7639222222222,-57.0664472222222,srd,1,0,2,regular,0,normocoradas,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,1
+141,355,10/21/2011,jabulani,roque marcelo de albernar,andradas 1532,Centro,1,-29.75305,-57.0784055555556,labrador,2,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+142,358,10/21/2011,sharon,luisa faria correa,general vitorino 1776,Centro,1,-29.7553555555556,-57.0912861111111,labrador,2,0,3,bom,0,normocoradas,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+143,359,10/31/2011,negrão,claudio de moura dos santos,setembrino de carvalho 2064,União das Vilas,21,-29.7792694444444,-57.0542111111111,srd,1,0,2,regular,0,normocoradas,0,1,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,1
+144,361,11/4/2011,chumbo,marcia cristina rosa,general camara 782,Mascarenhas de Moraes,3,-29.7490638888889,-57.0832861111111,srd,1,0,2,regular,0,normocoradas,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+145,365,11/7/2011,ladi,rosa nara fontes marques,dalton rosa 1026,Cidade Alegria,26,-29.7687555555556,-57.0669861111111,srd,2,0,2,regular,0,normocoradas,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1
+146,369,11/10/2011,veia,rafael carrazoni,quadra 6 casa nº 9,Distrito Rodoviário/ Betania,17,-29.7845972222222,-57.1034027777778,srd,2,0,2,ruim,0,normocoradas,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,1,1,1
+147,373,11/10/2011,branquinha,eunice ananias altamiranda,quadra 5 nº 24,Promorar 1,21,-29.7705,-57.0536916666667,srd,2,0,2,regular,0,normocoradas,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+148,374,11/11/2011,pretinha,eunice ananias altamiranda, andradas 1601,Mascarenhas de Moraes,3,-29.7705,-57.0536916666667,srd,2,0,2,regular,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+149,378,11/11/2011,lola,daniel falcão villela,quadra 6 casa nº 9,Distrito Rodoviário/ Betania,17,-29.7536583333333,-57.0783944444444,labrador,2,0,2,bom,0,hiperemicas,1,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1
+150,379,11/16/2011,belinha,mara freitas,andradas 1102,Centro,1,-29.7491583333333,-57.0784611111111,boxer,2,0,2,bom,0,normocoradas,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+151,380,11/17/2011,mauro,ilsa rossini,vasco alves 2468,Centro,1,-29.7498944444444,-57.0891194444444,srd,1,0,2,bom,0,normocoradas,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+152,382,11/18/2011,preta,vanderlei davil rodrigues,aleixo worlod 2508,Bela vista,5,-29.77295,-57.1005583333333,srd,2,0,2,regular,0,normocoradas,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+153,383,11/19/2011,bad,carla viviane fernandes,general vitorino 3294,Nova Esperança,9,-29.7690583333333,-57.0910805555556,srd,1,0,2,regular,0,normocoradas,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+154,385,12/1/2011,banze,valdir saraiva,eustaquio ormazabal travessa josé francisco nº100,Centro,1,-29.769,-57.0942694444444,srd,1,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+155,390,12/1/2011,chico,joão luiz avila de barro,gregório beregaray 1860,Nova Esperança,9,-29.7602444444444,-57.0541027777778,srd,1,0,1,regular,0,normocoradas,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+156,391,12/1/2011,fofo,joão luiz avila de barro,joão rossi 202,Jockey Club,18,-29.7602444444444,-57.0541027777778,srd,1,0,1,bom,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+157,394,12/1/2011,fusarca,maria de lurdes ferreoli darde,joão rossi 202,Jockey Club,18,-29.7667916666667,-57.0954166666667,9,2,0,2,regular,0,normocoradas,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+158,396,12/1/2011,breno,josé américo fraga,josé francisco pereira da silva travessa 1 nº 1521,Cidade Alegria,26,-29.7697888888889,-57.0642,srd,1,0,2,regular,0,normocoradas,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1
+159,397,12/14/2011,sultão,josé américo fraga,josé francisco pereira da silva travessa 1 nº 1521,Cidade Alegria,26,-29.7697888888889,-57.0642,srd,1,0,2,regular,0,normocoradas,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1
+160,403,12/22/2011,madona,lenir flores de melo,estilac leal 926,Cabo Luiz Quevedo,10,-29.7750916666667,-57.0899,srd,2,0,2,regular,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+161,404,12/22/2011,tundra,glecir guedes baza,nei messias 3821,Ipiranga,13,-29.7704638888889,-57.07075,srd,2,0,3,regular,0,normocoradas,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+162,405,12/26/2011,suzi,fabiane barbosa de la pierri,prado lima 3432,São João,8,-29.7697972222222,-57.0615138888889,srd,2,0,2,bom,0,normocoradas,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+163,406,12/26/2011,piti,ana carolina pires medeiros,erico verissimo 250,São João,8,-29.7690722222222,-57.0942583333333,srd,2,0,2,regular,0,normocoradas,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+164,407,12/26/2011,loba,enida rodrigues guterres,eustaquio ormazabal 3267,Nova Esperança,9,-29.7784361111111,-57.0841138888889,srd,2,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+165,408,12/26/2011,tigre,salete barbosa lopes,alceu vamosi 1657,Cidade Alegria,26,-29.7653722222222,-57.0787972222222,boxer,1,0,2,regular,0,normocoradas,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1
+166,409,12/27/2011,tor,catia cilene,presidente vargas 1713,Centro,1,-29.7670722222222,-57.0766027777778,srd,2,0,2,regular,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+167,410,12/27/2011,zeca,claudia machado,13 de maio 2506,Centro,1,-29.7584,-57.0799222222222,srd,1,0,2,regular,0,normocoradas,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1
+168,411,12/27/2011,guri,vera regina costa e silva,benjamin constant 3088,São João,8,-29.7673583333333,-57.0894777777778,srd,1,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+169,412,12/27/2011,capitu,lorena da costa oliveira,13 de maio 3105,Rio Branco,23,-29.7619861111111,-57.089675,srd,2,0,2,bom,0,normocoradas,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
+170,413,12/27/2011,desconhecida,alcenir teixeira,perimetral 874,Cidade Nova,24,-29.7637527777778,-57.066675,srd,1,0,2,ruim,0,normocoradas,0,0,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,1,1
+171,414,12/29/2011,bidu,clementina alves da silva,julio de castilhos 1534,Bela vista,5,-29.763675,-57.0669055555556,srd,1,0,2,regular,0,normocoradas,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,1,1
+172,415,12/29/2011,pedrita,roberto pinto valença,perimetral 739,Cidade Nova,24,-29.7614444444444,-57.0982111111111,srd,2,0,2,regular,0,normocoradas,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1
+309,416,12/29/2011,mailon,aline lemos,perimetral 946,Cidade Nova,24,-29.7638916666667,-57.0665583333333,srd,1,0,2,regular,0,normocoradas,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,1
