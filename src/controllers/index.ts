@@ -1,2 +1,2 @@
 export * from './breed'
-export * from './adresses'
+export * from './address'
