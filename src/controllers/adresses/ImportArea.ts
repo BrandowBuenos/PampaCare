@@ -3,7 +3,7 @@ import csv from 'csv-parser'
 import fs from 'fs'
 import prisma from '../../services/prisma'
 
-class ImportBreed {
+class ImportArea {
   async execute (request: Request, response: Response): Promise<Response> {
     try {
       const result: any = []
@@ -15,19 +15,19 @@ class ImportBreed {
         })
         .on('end', async () => {
           const jsonArray = JSON.parse(JSON.stringify(result))
-          const resultado = jsonArray.map((item: { Raça: String }) => item.Raça)
+          const resultado = jsonArray.map((item: { Área: String }) => item.Área)
 
-          resultado.forEach(async (breedName: string) => {
-            await prisma.raca.createMany({
+          resultado.forEach(async (areaName: string) => {
+            await prisma.area.createMany({
               skipDuplicates: true,
               data: {
-                nome: breedName
+                nome: areaName
               }
             })
           })
         })
 
-      return response.status(201).json({ message: 'Importação de raças efetuada com sucesso !' })
+      return response.status(201).json({ message: 'Importação de áreas efetuada com sucesso !' })
     } catch (error) {
       return response.status(400).json({
         message: error.message
@@ -36,4 +36,4 @@ class ImportBreed {
   }
 }
 
-export { ImportBreed }
+export { ImportArea }
